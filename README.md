@@ -1,5 +1,7 @@
 # NOR_GATE
-#3 EXPERIMENT 2.b Design CMOS NOR gate and perform Transient and Operating Point (OP) analysis.
+## REG NUM :
+## NAME :
+## EXPERIMENT 2.b Design CMOS NOR gate and perform Transient and Operating Point (OP) analysis.
 
 ## Aim:To design CMOS NOR gate and performTransient and Operating Point (OP) analysis.
 
